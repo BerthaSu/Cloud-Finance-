@@ -1,0 +1,229 @@
+header {
+  width: 1191px;
+  height: 113px;
+  background: #fff;
+  margin: 0 auto;
+}
+header h1.logo {
+  width: 134px;
+  height: 56px;
+  margin-top: 45px;
+}
+header h1.logo a {
+  width: 134px;
+  height: 56px;
+  background: url(../images/logo.png) no-repeat;
+  display: block;
+  text-indent: -999em;
+}
+header div {
+  width: 612px;
+  height: 100%;
+}
+header div nav.register {
+  padding-top: 14px;
+  padding-left: 101px;
+}
+header div nav.register ul li {
+  float: left;
+  height: 12px;
+  padding: 0 13px;
+  border-right: 1px solid #666;
+}
+header div nav.register ul li a {
+  vertical-align: top;
+  font-size: 12px;
+  color: #666;
+}
+header div nav.register ul li a:hover {
+  color: #1e6990;
+}
+header div nav.register ul li:first-child {
+  width: 127px;
+  padding: 0;
+  text-align: center;
+}
+header div nav.register ul li:first-child a {
+  padding-right: 13px;
+  float: right;
+}
+header div nav.register ul span {
+  float: left;
+  width: 54px;
+  height: 22px;
+  padding-left: 29px;
+}
+header div nav.register ul span a {
+  width: 22px;
+  height: 22px;
+  display: inline-block;
+}
+header div nav.register ul span .weixin {
+  background: url(../images/u27.png) no-repeat;
+}
+header div nav.register ul span .weixin:hover {
+  background: url(../images/r-weixin2_03.jpg) no-repeat;
+}
+header div nav.register ul span .weibo {
+  background: url(../images/u29.png) no-repeat;
+}
+header div nav.register ul span .weibo:hover {
+  background: url(../images/r-weibo2_05.jpg) no-repeat;
+}
+header div nav.menu {
+  width: 100%;
+  padding-top: 37px;
+}
+header div nav.menu ul {
+  width: 100%;
+  height: 40px;
+}
+header div nav.menu ul li {
+  width: 45px;
+  height: 40px;
+  font-size: 22px;
+  font-weight: bold;
+  float: left;
+  margin-left: 49px;
+  position: relative;
+}
+header div nav.menu ul li a {
+  width: 100%;
+  height: 100%;
+  display: block;
+  color: #4d4d4d;
+}
+header div nav.menu ul li a span {
+  width: 88px;
+  height: 4px;
+  display: block;
+  position: absolute;
+  bottom: -4px;
+  left: 50%;
+  margin-left: -44px;
+  background: #1b6892;
+}
+header div nav.menu ul li a.active {
+  color: #1b6892;
+}
+header div nav.menu ul li:first-child {
+  margin-left: 0;
+}
+.btm-border {
+  width: 100%;
+  height: 4px;
+  background: #e5e5e5;
+  display: block;
+}
+#story-box {
+  width: 1191px;
+  height: 868px;
+  margin: 0 auto;
+}
+#story-box .story-box {
+  width: 1191px;
+  height: 54px;
+  margin: 0 auto;
+}
+#story-box .story-box #story-nav {
+  width: 100%;
+  height: 23px;
+  border-bottom: 1px solid #e5e5e5;
+  padding-top: 31px;
+}
+#story-box .story-box #story-nav .fl {
+  color: #a1a1a1;
+  font-size: 14px;
+}
+#story-box .story-box #story-nav .fl time {
+  margin-right: 26px;
+}
+#story-box .story-box #story-nav a {
+  display: block;
+  font-size: 12px;
+  color: #3c7d9f;
+  margin-right: 4px;
+  font-weight: bold;
+}
+#story-box .story-box article {
+  font-size: 16px;
+  color: #666;
+  height: 751px;
+  width: 1110px;
+  padding-top: 63px;
+  margin-left: 40px;
+  text-align: justify;
+}
+#story-box .story-box article h1 {
+  color: #000;
+  font-size: 22px;
+  text-align: center;
+  margin-bottom: 32px;
+  font-weight: bold;
+}
+#story-box .story-box article p {
+  line-height: 30px;
+}
+#story-box .story-box article p.ti {
+  text-indent: 2em;
+}
+#story-box .story-box article div {
+  text-align: center;
+}
+#story-box .story-box article div img {
+  margin: 20px;
+}
+footer {
+  width: 100%;
+  height: 95px;
+  background: #000;
+}
+footer div.foot {
+  width: 1191px;
+  height: 100%;
+  margin: 0 auto;
+  color: #fff;
+}
+footer div.foot nav {
+  width: 565px;
+  height: 100%;
+  padding-left: 20px;
+  font-size: 14px;
+}
+footer div.foot nav ul {
+  width: 100%;
+  height: 14px;
+  padding: 21px 0 18px 0;
+}
+footer div.foot nav ul li {
+  float: left;
+  padding: 0 15px;
+  border-left: 1px solid #fff;
+}
+footer div.foot nav ul li a {
+  color: #fff;
+}
+footer div.foot nav ul li:first-child {
+  padding-left: 0;
+  border-left: 0;
+}
+footer div.foot div.phone {
+  width: 329px;
+  height: 50px;
+  margin-top: 18px;
+  font-size: 16px;
+}
+footer div.foot div.phone a {
+  width: 120px;
+  height: 100%;
+  color: #fff;
+  background: url(../images/r-phone.png) no-repeat;
+  padding: 4px 0 0 59px;
+}
+footer div.foot div.phone a p {
+  padding-top: 12px;
+}
+footer div.foot div.phone a.fr {
+  width: 76px;
+  background: url(../images/r-click.png) no-repeat;
+}
